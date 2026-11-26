@@ -3,7 +3,19 @@
   padding: 0;
   box-sizing: border-box;
 }
+.name {
+    padding: 20px;
+    display: flex;
+    gap: 100px;
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+}
 
+a {
+    color: white;
+    font-size: 20px;
+}
 body {
   font-family: Arial, sans-serif;
   background-color: #ffffff;
